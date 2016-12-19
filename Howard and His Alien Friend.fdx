@@ -1,0 +1,3578 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="2">
+
+  <Content>
+    <Paragraph Type="Transition">
+      <Text>Fade in:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="6 6/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HOWARD"></CharacterArcBeat>
+          <CharacterArcBeat Name="JIMMY"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. - Howard’s house - dAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy Ryan knocks on the front door of his father’s home - the home in which he grew up. It is an immaculate, bi-level architecture, pristine white. It is located on a shady avenue among similarly perfectly-maintained upscale homes of </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">1950s</Text>
+      <Text> vintage.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jimmy</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Banging on the door)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dad! Come to the door! Can you hear me?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>With no response, he pulls out his cell phone and calls his Dad’s number. He can hear the phone ringing inside, but no one picks up.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Growing worried, Jimmy walks around the side of the house looking for an open window or a way to see inside. Then as he reaches the back of the house, he sees his father, and he is relieved to find him okay. His father, Howard, is standing in the back yard looking up into a tree as if he is talking to someone.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Howard Ryan is 78 years old. He is gray-haired but fit and proudly erect in his posture. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy walks over toward where his dad is standing, eyes searching the tree canopy above him as he approaches.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jimmy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dad, did you not hear me? I’ve been calling, yelling for you, banging on the door.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Howard turns to see Jimmy, but glances back up into the tree, which Jimmy notices.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Howard</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, sorry. I didn’t know you were coming by. What’s up?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy glances back up into the tree canopy, then back to his father.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who are you talking to?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What do you mean?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You looked like you were talking to someone. I thought maybe you had someone working on the trees.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, no, nobody here. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Howard glances from the trees to Jimmy, whose expression says that he thinks something isn’t right, possibly with his dad.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How long have you been out here?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, awhile. I’ve just been puttering around the back yard, sprucing up a little. Your mom was so dedicated to keeping things pruned, you know. She kept it sharp back here.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy looks around the well-manicured yard, with flowers in bloom and thick lawn freshly cut.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The yard looks good, dad. I don’t know how you are doing all of this. Do you still have Mr. Santos come by for yard work?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, he does the lawn and the trees. He’s not a flower bed guy. “No flowers, no flowers,” he tells me. </Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(holds his hands up, shaking them, imitating his Mexican gardener)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>“Trees and grass,” that’s all he thinks about.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Tits and ass.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What’s that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Nothing. I need something to drink. You been out here long enough? Want to go inside and get something?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I guess I could use something.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The two walk to the house. Howard, moving slowly, carefully crosses the lawn, back to the patio area, passing by outdoor furniture, and on into the house. It is an airy place with French Doors connecting the patio with an informal dining area, a spacious kitchen, and a living area. Multi-paned windows, matching the French doors, provide an open view into the surrounding yard.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy goes to the kitchen and the refrigerator.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What have you got, Pop? Do you have any iced tea?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Just bring a Dr. Pepper.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Looks disappointed)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Really, Dad? You’re drinking soda?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s a medical soda. It’s Dr. Pepper.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(readies their drinks)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m not sure that’s an AMA thing, dad. I don’t know how Dr. Pepper got its name?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s the one with the prunes. That’s the “doctor” part. Growing up, I always heard that there was an association between old people and prunes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I think that’s a dating reference, dad, not a libation thing. </Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(pauses on a thought)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dr. Pepper is made with prunes?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That may just be a popular myth, like religion.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy just looks at his dad for a moment without saying a word. His expression says that he sees his dad as being as sharp as ever, still a little ornery. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So, I haven’t talked to you in a few weeks. You been okay?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Howard seems a little irked by the question.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sure, why wouldn’t I be?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JiMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You haven’t called or anything. Michael told me you haven’t called him, either. We got a little worried.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What are you worried about?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, you know, when we don’t hear from you...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You could call me, you know. You worried about me or you?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You! Why would I be worried about myself?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HoWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t know. I’m not going to be around forever. That might worry you, being by yourself out there in the big old world, the vast universe.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy feels insulted.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dad, I’m thirty-four years old. I’ve been out in the big world for, what, ten years! You are worried about me?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Of course, I’m your father. I’ll always worry about you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What are you worried about?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I worry that you won’t be able to make a living.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(offended)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I make a living.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And I worry that you are lonely.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(doubly offended)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What? I’m not lonely.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Did you ever get things worked out with that one girl?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JimmY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who, you mean Brenda, your ex-daughter-in-law? No, I think we are pretty much divorced for, you know, like five years.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You think she’ll take you back?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Shakes his head in resignation)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, Dad, I don’t see that happening. Just going to have to move on without her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, that’s too bad. You may be one of the guys who is just better off with a dog anyway.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ve got a dog, Pop. Remember Sargent? He used to live here? Used to be your dog?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, you still got Sargent? My God, I thought he was for sure gone by now. How old must he be?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He’s not that old, Pop. You got him as a puppy the year Mom died.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I guess that’s right. I can’t really think right off what that makes him, though.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, Mom died in...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy struggles to remember the year.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That dog’s older than you think. Probably older than you are.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You want him back? You could take care of him and have yourself some company.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, I don’t need him. You are the one who needs the dog.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(astonished)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You think I need the dog.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Howard</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You must need something. You had the need to come over here and see your old man, didn’t you?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy just looks at his triumphantly grinning dad, resigned to his ribbing reasoning.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JiMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay then, I’m needy. But I’m not the one talking to trees.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(not understanding)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who’s talking to trees?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It looked to me like you were.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HoWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well I wasn’t. Trees don’t talk, everybody knows that.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So you are just standing out in your back yard talking to yourself?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What if I was?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s okay, if that’s what you’re into. I just wanted to make sure you weren’t slipping, you know?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(mocking)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You wonder if I’m going mental?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How would I know if you don’t stay in touch? And no, I don’t really think you’re going mental, but it’s a son’s duty to check.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, don’t feel like you have anything to worry about where I’m concerned. At least to this point I remain the guy you’ve always known me to be. I’ll let you know if anything changes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ll let </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">you</Text>
+      <Text> know if anything changes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(joking)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Fine then, we have an understanding, the basis for a fine relationship.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(speaking like </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Bogart</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This could be the start of a beautiful friendship.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We may even fall in love.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 7/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="JIMMY"></CharacterArcBeat>
+          <CharacterArcBeat Name="MICHAEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. Jimmy’s living room - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy calls his older brother. Michael is a distinguished-looking middle-aged professional type, who looks especially sharp compared to his slovenly kid brother.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey, Michael. I just wanted to tell you that I dropped by Dad’s today.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Michael</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, good. What’s going on with him?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t know. Something. I can’t tell. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Michael</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What do you mean?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jimmy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Have you noticed any changes?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I haven’t seen or heard from him in more than a month! I was starting to wonder if he had a girlfriend.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That would be preferable, to me, because I found him talking to trees.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JimmY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I found him standing out in the back yard looking up into the trees like he was talking to someone up there. I thought I was going to see his yard guy, Mr. Santos, up in the tree trimming or something. Nothing there. I’m a little worried about our old man.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Michael</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How is he looking? Is he taking care of himself?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Yeh</Text>
+      <Text>, he looks great. He was in a feisty mood. He wondered if Brenda and I were </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">gonna</Text>
+      <Text> get back together.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MiCHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He’s just giving you shit. He always liked Brenda.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He thinks Sargent is dead.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sargent? He’s okay, isn’t he?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JiMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, he’s fine, only I can’t remember how old he is. How many years has it been since Mom died?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Wow, let’s see. He must be ten. It’s been ten years since we lost Mom.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JiMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Woh</Text>
+      <Text>, so Sargent is old.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We all are, little Brother. Especially Dad. If talking to trees is his worst problem, we should count our blessings.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I think we better keep a closer eye on him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MichaEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">KYou</Text>
+      <Text> mean Dad, or Sargent?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JiMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Both, I guess.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>FaDE OUT.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 6/8" Page="9" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HOWARD"></CharacterArcBeat>
+          <CharacterArcBeat Name="MICHAEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. - Howard’s house - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Michael Ryan pulls into the driveway of Howard’s home, and as he does ne notices that the door to his father’s detached garage is open. He walks on up the drive to the garage, expecting to find his father inside. Finding that he is not there, Michael assumes that his father just forget to close the garage door, so he presses a button on the wall and then ducks under the sliding door as it moves into place. Now near the back of the house, Michael walks up onto the patio and goes to the back door. He can see his father in the kitchen, working over the sink.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As Michael taps on the back door to get his father’s attention, he notices a movement in the sun room. It lasts for a fraction of a second and he looks but sees nothing there.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Howard hears the knock on the back door and turns to see Michael, and then instinctively looks over toward the sun room, before walking over to open the back door.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HowARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hi, Michael. What are you up to?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>mICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hi, Pop. How are you doing?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The two exchange a brief hug</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is there someone here? Do you have company?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, just me. Why do you ask?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I thought I saw somebody in the sun room.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Michael studies the sun room for a moment, glancing back at the door from which he thought he had seen movement</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My eyes must be playing tricks on me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Have you had ‘em checked recently?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My eyes? Yeah, in fact I just got new glasses.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HowarD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You should be wearing them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m far-sighted, Pop. I just need the glasses to read.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Howard</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, I see.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Pauses briefly)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That was sort of like a joke.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, I get that. It’s like you’re </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Henny</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Youngman</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HowarD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I understand that he was a dirty old man.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Michael looks at him, as if he had a joke that didn’t need to be spoken.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, I get it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Michael stays with his father until he feels comfortable that everything is fine with him and that he doesn’t need help with anything. They move from the kitchen to the sun room, talking in a casual and relaxed manner.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>FADE OUT.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>FADE IN:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 6/8" Page="11" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HOWARD"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. Howard’S HOUSE - eVENING</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The light has changed. Howard sits in his sun room, reminiscing, talking in a relaxed way. He appears to be talking to himself. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The boys are both real different types of personalities. The older one Michael was always the focused one, sort of practical in his thinking. He was a real good student and we got him a good education. He went to </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">USC</Text>
+      <Text>. That’s the University of Southern California. It’s a private school, a lot of rich kids, and Michael made good connections there among the Trojans. Their athletic teams all call themselves the Trojans, which always made me think of prophylactic birth control, what we called rubbers, when I was a kid. That environment is all sexed up, so while the reference is really to the ancient Greeks, the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">USC</Text>
+      <Text> Trojans always made me think of rubbers. Still do.</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My younger son, Jimmy, has just never been worth a plug nickel, but he’s got a big heart. He’s a good kid, but just sort of stuck there. He can’t seem to grow up. It’s funny how what came so natural to Michael is as alien to Jimmy as you are to me. I hope you get my meaning. Jimmy and Michael are just two very different people.</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I think Jimmy probably inherited my wife’s personality and disposition. Her name was Beatrice. Can you imagine that? That name did not exist in our generation, but that’s what her parents tagged her with. Beatrice. She always went by </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Addy</Text>
+      <Text>, which I think was the best she figured she could get out of that millstone of a name. Anyway, she was a lot of fun, very light hearted, and Jimmy is a lot like she was. At least she had someone who would take care of her, because I doubt she could have made a dime out in the working world. Poor Jimmy hasn’t been able to find anyone who would take care of him, so he has always struggled. Not like Michael. Money just comes easy to him, it seems. Money means a lot to us here, you know. It’s as precious as life blood.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Howard seems to listen to a question.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes, I do have some money. There was this guy Steve Jobs. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Howard pauses again to listen.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, you know him? I didn’t know him but a business partner of mine got me to invest some money in his computer company. I really couldn’t see that it could go anywhere, but I have made a lot of money on that deal. Haven’t done a damned thing to earn any of it, but I still get income on that investment to this day. That’s the thing about money. It comes easy to those who have it to begin with. I have no idea how the others get by. Nothing accrues to them. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 4/8" Page="13" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="JIMMY"></CharacterArcBeat>
+          <CharacterArcBeat Name="MICHAEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. Michael’s house - eVENING</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Michael plays with his two young children before pardoning himself and retreating to his den. There he places a call to his brother Jimmy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey, Jimmy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey Michael, what’s up?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I just wanted to let you know that I spent time with Dad today.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh yeah? How was that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It was good. Everything seemed fine. We sat and talked for quite awhile, not about anything in particular, just shooting the bull. He’s real sharp. In fact, he seemed sharp in a cryptic sort of way, which is the only thing I found different, in some ways. I never thought of Dad as particularly cryptic.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy looks confused.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t know what you are saying, Michael. He’s cryptic? What does that even mean?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, I don’t know, I’m probably just being weird. It’s just that he would say things that seemed to imply that he was saying something else, or more, or whatever cryptic people do.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You are being cryptic, if I even begin to know what cryptic means.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t even know what I am trying to say. Dad seems fine, sharp as a tack. I just kept getting this sense that he wanted to tell me something that he couldn’t quite say.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JiMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh God. You don’t think he’s sick, do you?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He doesn’t seem sick, but who knows? Do you have any idea if Dad is getting routine checkups or anything?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He’s never mentioned anything.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Michael goes quiet on the other end of the line.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Michael, what are you thinking? You’re scaring me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MichAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t mean to scare you, I’m just saying that Dad said some peculiar stuff when I talked to him today.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Like what?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He seemed to be sort of fixated </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">on...I</Text>
+      <Text> don’t know. The universe!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He just seemed to be in this crazy philosophical mood where he was talking about becoming aware of the world in ways that are now bigger for him than they’ve ever been before. Stuff like that.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy seems to analyze that information for a moment.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do you think Dad is thinking about dying?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Fuck, Jimmy! I don’t know. I don’t want to think about that! He seems fine.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay, now I’m upset.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, don’t go there. Everything is fine. I shouldn’t have said anything.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>About?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>About Dad seeming a little cryptic.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That is a weird word, Michael. That word has crypt in it, which is not what you want to hear in reference to your old man.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Jimmy, forget about. Everything’s fine. Forget what I said and I’ll call you back tomorrow.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 7/8" Page="15" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="JEAN"></CharacterArcBeat>
+          <CharacterArcBeat Name="JIMMY"></CharacterArcBeat>
+          <CharacterArcBeat Name="MR. LOWENSTEIN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. Mr. Lowenstein - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mr. Lowenstein, a bald man in his early </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">‘80s</Text>
+      <Text>, answers the phone in his home, which is located next door to Howard Riley’s house. Calling is Jimmy Ryan.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hello, Mr. Lowenstein. This is Jimmy Ryan, from next door.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mr. Lowenstein</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Thinking for a moment)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, yes, how are you? Are you visiting your Father?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, but I am calling regarding my Dad. Have you seen him of late?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. LOWENSTEIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, no, I haven’t really seen him, but I do talk to him over the wall near every day.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You talk to him over the wall?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. LOWENSTEIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, you know. We hear each other out in the back yard and always holler out a good morning, or whatever. I haven’t actually seen him in some time.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You know, I am concerned about him because he has </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">kinda</Text>
+      <Text> stopped staying in regular touch with me or my brother, and he used to be so good about that.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. LOWENSTEIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well I understand your concern. I could drop by his place tomorrow if you like.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Would you mind, Mr. Lowenstein. I really hate to impose...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mr. LOWENSTEIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, no, no, think nothing of it. Howard and I have been friends for years. I feel like I talk to him every day and he sounds like himself, but I’ll be happy to check on him and call you back.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JiMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Thank you so much, Mr. Lowenstein. I really appreciate it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As Mr. Lowenstein hangs up the telephone, his elderly wife, Jean, comes in to the living room after listening to the phone conversation from the next room.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What was that about? It sounded like you were talking about Howard Riley.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. LOWENSTEIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I was. That was his son, Jimmy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What did he want?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mr. LOWENSTEIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He asked me if I would check on his Dad. I’ll walk over there tomorrow and see how Howard’s doing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He sounds fine to me. I hear him over there in his back yard every day. I don’t know who he is talking to but he’s always talking. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. LOWENSTEIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I never thought of Howard as being that much of a talker. A fine conversationalist, but not much of a bull shitter. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He just always sounds so happy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. LOWENSTEIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My God, I hope it’s not dementia. I hope Howard isn’t slipping.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="17" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>eXT. hOWARD’S HOUSE - dAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mr. Lowenstein appears from the front porch of his perfect white home, a mirror-image to that of his neighbor, Howard Riley. Lowenstein -- bald, short and portly -- skirts the low hedge that separates their two front yards and then proceeds on up the side of Howard’s home, walking along the driveway. He doesn’t bother to go to the front door. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As he reaches the back side of the house, where the French-style paned windows provide an open view into Howard’s sun room and kitchen, Mr. Lowenstein suddenly freezes, staring in stunned disbelief at what he sees. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He can see Howard from the back, seated in a chair in his sun room, and seated across from him is an alien life form, a “Grey”. Howard stares for only a brief moment, before the alien turns its head and looks directly at him.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The force of the alien’s attention knocks Mr. Lowenstein backwards and he turns in a panic and starts to move quickly away down the driveway before suddenly grabbing his chest and collapsing.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4 2/8" Page="17" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="JEAN"></CharacterArcBeat>
+          <CharacterArcBeat Name="JIMMY"></CharacterArcBeat>
+          <CharacterArcBeat Name="MICHAEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. JimmY’S LIVING ROOM - Night</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy Ryan answers his phone to discover that Mr. Lowenstein’s wife Jean is on the phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hello.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is this Jimmy Ryan?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes, who is calling?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Jimmy, its Jean Lowenstein. Herb has had a heart attack. We found him in the driveway at your Father’s house.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JiMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My God, Mrs. Lowenstein, are you okay?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes, yes, thanks for asking. And Herb is going to be fine, but I’m worried about something. Something he said. They have him on pain relief so I don’t know if he was in his right mind, but I just wanted to tell you as you had asked Howard to check on your Dad. Your Dad is who found him and called for an ambulance. I don’t think Herb would be alive now if Howard hadn’t acted so quickly. He’s my hero now.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well that’s good to hear. I’ve been wondering if my Dad is doing okay, and this is encouraging.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But Jimmy, it is what Herb said that has me puzzled. He said that he saw your father talking to something and he didn’t know what it was. He said it had big black eyes and it looked at him and it scared him so that he tried to run, and that’s when he had his heart attack.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy Ryan listens into the phone, stunned into a long silence, just thinking about everything that has happened and what he has just heard.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEAN (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Jimmy, are you still there?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes, yes, Mrs. Lowenstein. I just don’t know what to say. I am trying to imagine what Mr. Lowenstein must have seen.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t know, I just don’t know what to think. But I thought you should know. I don’t know what it means.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JimmY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But you saw my Dad, when the ambulance came?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh yes, he immediately came to our front door and got me, so I could ride with Herb to the emergency room. I thought it might be our last moments together.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mrs. Lowenstein, I am so sorry this happened. I should have never asked your husband to go over there in the first place.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, don’t feel that way. We have been friends and neighbors with Howard for years. I can tell you that he is doing fine.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy hangs up the phone and immediately calls his brother Michael, who picks up on the other end.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hi, Michael, this is your brother.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, what’s up?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I got to tell you something I did, something that happened. You know the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Lowensteins</Text>
+      <Text>, next door to Dad’s? Herb and Jean?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sure. Of course.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This might have been a mistake, in retrospect, but last night I called Mr. Lowenstein.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(hesitant)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I just wanted to ask him if he had seen Dad of late, just wanting to get another opinion, you know?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jimmy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And so he volunteers to go over and check on him. Mr. Lowenstein tells me that they talk over the wall in the backyard every day. He said Dad is fine, but he volunteers to check on him and that he’ll give me a call back. I can’t </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">freakin’</Text>
+      <Text> believe this, but he’s in the hospital tonight. He goes over to Dad’s house and has a heart attack in the driveway.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, God. Really? Is he going to be okay?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>His wife just called to tell me about the whole thing. I never heard from Dad and you apparently haven’t heard from him either. Jean said Dad found Mr. Lowenstein and called 9-11.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I will have to get some flowers sent over to the hospital. Do you know what room he is in?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Geez</Text>
+      <Text>, I didn’t even think about that. I can find out. It was this weird thing that his wife said that made me call.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>She isn’t going to sue us, is she?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JiMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, no, she said something about Dad. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What do you mean?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Apparently Mr. Lowenstein told her that the reason he had a heart attack was because of something he saw at Dad’s house. He said he looked through a window and saw Dad sitting there with something he couldn’t describe beyond saying that it had big black eyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MiCHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It? What do you mean, it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m just telling you what Mr. Lowenstein told his wife Jean, who was freaked out enough to want to call me and tell me about it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MichaEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Jimmy, the guy is probably on morphine or something. He’s probably hallucinating.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JiMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, but not when he had the heart attack. He wasn’t hallucinating when he had the heart attack!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(A shiver down his spine)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re freaking me out, Jimmy. You’re probably freaking yourself out, too. What do you want me to do?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, what are you doing right now?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Nothing, really. Why?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JiMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I think we should go check on Dad.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Considering for a moment)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay, yeah. Give me about an hour and I’ll pick you up.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 6/8" Page="22" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HOWARD"></CharacterArcBeat>
+          <CharacterArcBeat Name="JIMMY"></CharacterArcBeat>
+          <CharacterArcBeat Name="MICHAEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. HOWARD’S HOUSE - NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Michael and Jimmy Ryan pull up in front of their father’s house, parking across the street along the curb rather than pulling into the driveway. They sit in the car talking, watching their childhood home. The house is lighted. A front porch light is on, and there is light through the front windows, which look into the living area of the house. There is a light on over the front of the detached garage. Overall, the house looks actively occupied, normal in all respects. Still, to Michael and Jimmy something seems odd.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I was driving over to pick you up and thinking about dealing with all these old people. We are getting pretty old ourselves, little brother. Now all the adults in our life are these ancient warriors, you know? And I don’t know what it’s like for them, like how life feels and how they perceive things. I mean, Herb Lowenstein is having a heart attack because of something he thinks he saw. What if he just had some old-age problem?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t know, but what he says gives me the creeps. Maybe it’s just over-active imagination.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You think Dad has a creature or a demon in his house?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Or an extraterrestrial, depending upon which History Channel show you watch.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Destination America. I think it’s Destination America that has the demons.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The brothers have an uncomfortable moment as they sit in the dark thinking about the absurdity of what they are saying, but knowing full well that it came to them by what Herb Lowenstein had reported seeing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So what do we do? Do we knock on the front door, like Jehovah’s Witnesses, or do we just go around to the back, casual-like?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I know where Dad keeps a key outside in case he gets locked out of the house.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You do? How come I don’t know that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It is in his flower bed. He’s got one of those false rocks.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good to know. What kind of a rock is it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t know. It’s brown. What, are you a geologist?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There could be more than one rock. I’m just trying to know what to look for if I ever need to find it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I think there’s just the one rock.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JiMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s good to know.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So why are we being so spooky? What’s wrong with us? We just act normal and knock on the front door and tell him we are here to check on him because we heard about Mr. Lowenstein and what happened today.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JiMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And Dad will say that we could have just called. He will wonder why we are here.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’ll just say that Herb Lowenstein saw something weird in your house and we just wanted to see that you are okay. Or if you need any help with anything.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Laughs nervously)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What if he says yes?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Stumped for an answer)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I guess we call </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">MUFON</Text>
+      <Text>. I have no idea. Maybe the Catholic Church.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Seriously, Michael. What if we go in there and find out that Mr. Lowenstein is nuts. Or, worse yet, what if we find that he isn’t?</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Michael and Jimmy go to the front door of their father’s home and knock on the door.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Hollers out)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dad, it’s Michael and Jimmy. You home?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The front door opens and there is Howard Riley, surprised to see them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hello, boys. What are you up to?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MiCHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hi, Dad. We hear you had quite a day. We just wanted to check on you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well come in.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="6 4/8" Page="24" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HOWARD"></CharacterArcBeat>
+          <CharacterArcBeat Name="JIMMY"></CharacterArcBeat>
+          <CharacterArcBeat Name="MICHAEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. HOWARD’S HOUSE - MOMENTS LATER</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Michael, Jimmy and Howard walk through the living room and on to the back of the house and to the kitchen, eyes searching the areas through which they pass.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What can I get you boys? You want something to drink?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What have you got? I could use a Coke or something.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dad’s a Dr. Pepper man.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dr. Pepper’s fine.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JiMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The only soda </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">that’ll</Text>
+      <Text> keep you regular.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Michael looks at him funny, having no idea what the comment means.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Howard pulls some cans of soda from his refrigerator and passes them out to his boys.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Here, have a seat. Make yourselves comfortable.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Michael and Jimmy move into the sun room, eyes searching every corner. There is a dark hallway at the inner side of the sun room, leading to the bedrooms once occupied by Michael and Jimmy Ryan when they were children. Lighting on the back patio clearly illuminates the spacious backyard, green with grass and shrubberies, and bordered by tall, vine-covered walls. There is a large elm with enormous branches that overhang much of the back of the yard, along with those of smaller trees there. The light from the patio cannot quite reach into the farthermost corners of the back yard. Shadows and darkness in the yard seem to imply human shapes, and brief flashing reflections seem to imply eyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy keeps looking at the dark hallway, while Michael walks over to the windows and stares out into the back yard.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey, Pop, I haven’t seen my old room in awhile. You mind if I take a look?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Not understanding)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sure, help yourself. I haven’t really kept up with the cleaning back there, but nobody ever uses that room anymore. It probably needs some dusting.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy walks over to the hallway and finds a light switch there. He lights the hallway and then walks slowly on into the house, past framed photographs of he and Michael as kids, and photographs of his parents at various stages of life.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>At the door to Michael’s old room, he stops, reaches inside and turns on the light.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Howard Riley notices what seems to him to be odd behavior, and he wanders over to where he can see what’s going on down the hall.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy walks into Michael’s room, looks around, and then goes over and opens the closet doors. The closet is filled with his mother’s hanging dresses.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Howard looks back to see Michael walking away from the sun room and headed toward the living room, and to the front of the house where his father has a den.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy comes out of his brother’s old room and moves slowly up the hall toward his old room. All the while, Howard Riley watches from the sun room.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>In the front of the house, Michael flips a light switch in the den and inspects the room. He then moves to the master bedroom, putting the light on in there, looking around, almost too distracted to remember that his father is waiting for him with sodas in the sun room.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>In the back of the house, Jimmy turns the light switch on in his old room, and then inspects the area, including a bathroom situated between the two bedrooms. He opens the closet doors in his old room, and there, too, finds his mother’s dresses filling that space, as well.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Howard appears in the doorway to the bedroom.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is everything okay?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh yeah, just haven’t been in here in a long time. </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kind’ve</Text>
+      <Text> reminiscing for a moment. You still have Mom’s dresses.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, I can’t seem to get rid of them. I keep thinking that I should donate them someplace, but things go out of style, you know. I don’t know that anyone would have any use for them and I can’t bring myself to just throw them away, like trash. She was always so proud of her things. It’s wrong of me, I know. It’s just leaving a big burden for you and your brother, once I’m gone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You ain’t going anywhere.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, we’re all going sometime, somewhere.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy stands staring at his mother’s dresses.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So what happened today, Dad? I mean with Mr. Lowenstein.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Michael appears in the hallway, having completed his inspection of the front of the house.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HoWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh that poor guy. I don’t know what prompted him to come over, but apparently he was going to visit me and he collapsed in the drive. I think it had only just happened when I found him and called the medics. There was an ambulance here within five minutes. With all the old people living in this neighborhood there is a unit that just sits in the parking lot down by the restaurant there on Park Street, so they got to Herb right away. The poor guy was white as a ghost when I found him and I thought he was dead.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Michael</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Was he able to say anything about what happened?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, he was just comatose, totally out. I think maybe they shocked him in that ambulance. Jean was in there with him, and she was really upset. I just felt so bad for them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JiMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He’s doing okay, Dad.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HoWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How do you know that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JimmY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I talked to Mrs. Lowenstein on the phone. She called me to tell me what happened, and she said he was doing okay.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, thank God. Herb is such a good old guy. He’s been a wonderful neighbor.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dad, Jean Lowenstein told Jimmy a weird story. He said that he was coming over to see you and he thought he saw something in your house.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Suspect look)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He thought he saw something in my house?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JiMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s what she said, Dad. It scared him and that’s when he had his heart attack.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Was there someone here today?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Here at the house? Not other than Herb and the ambulance crew. And Jean, I went over and got her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MiCHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No one else, huh? There was no one here when Mr. Lowenstein came over?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, I was in the kitchen, reading the morning paper, and for some reason I went over and looked out the window and saw Herb laying there. Scared me half to death.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Pause for a moment to think)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He said he saw something in my house?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s what he told Mrs. Lowenstein.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Poor Herb. He must be slipping.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Michael and Jimmy look at each other for a moment</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are you okay here alone, Pop? Are you comfortable being here at night, for instance?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Not comprehending the question)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Seriously?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, do you feel safe?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JiMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’d tell us if you didn’t, wouldn’t you?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Sort of amazed)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do I feel safe in my own home? Of course I do. What kind of a question is that?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Michael and Jimmy look again at each other, each wishing the other had a good idea for how to ask such strange questions. Then Michael seems to have a thought, and it registers on his face.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MichaEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dad, I think what is concerning Jimmy and me is that if this type of thing can happen to Herb Lowenstein, then maybe we should be watching our own health more closely. I mean, a heart attack like that - its devastating.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, it happens. Herb is older than I am, and he’s probably not in very good shape.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jimmy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He’s shaped like a bowling pin.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HowarD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m sure his cholesterol is high and that he has all those age-related issues we all have.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Have you had your cholesterol checked recently? When was your last physical? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, it’s been awhile. I’m sure I’m overdue. I just don’t think to go if I don’t feel like I need to.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It sure wouldn’t be a bad idea, though. It would probably make us feel better if we knew you were in good shape.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JimmY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You look good.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Not like a bowling pin?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, no, you look great. In fact, you look better than I do. How the heck is that happening?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So you’d be okay with getting checked out? Are you still with Dr. </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Ormsby</Text>
+      <Text>?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, he died you know. You didn’t know that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I didn’t know. He wasn’t our doctor. We have Kaiser.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JiMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You have health insurance?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So what’s your health coverage? Who is your primary care physician?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well I’m on Medicare, so I am in one of those doctor’s groups. Hills, or something like that.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So you don’t really know your doctor?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Not personally. I’ve been seen by a couple different guys. They both seemed real professional.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Would you set up an appointment to make Jimmy and me happy?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, yeah, I guess I could.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good, Pop. Good.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2" Page="31" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DR HORTON"></CharacterArcBeat>
+          <CharacterArcBeat Name="HOWARD"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. Hospital examining room - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dr. Horton, a virile </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">50-something</Text>
+      <Text>, types a few notes into a computer as he finishes up the examination of Howard Riley, who sits on an examining table wearing a white gown, open in the back.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Dr Horton</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mr. Riley, you look to me to be in good shape. You must be taking good care of yourself.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I told my boys that I am feeling fine, but they insisted that I get checked out.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR HORTON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Has anything happened to prompt their concern.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Not to me, but my neighbor had a heart attack in my driveway the other day and it freaked my boys out.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR HORTON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I can see where it might. How is your neighbor doing?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, he survived. I’m not sure how he is doing overall. I think he is seeing things.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR HORTON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Seeing things?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He apparently told his wife that he had a heart attack over something he saw at my house. Hard to feel good about that.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR HORTON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do you mind my asking what it was that he thought he saw?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HowarD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I have no idea, but it apparently scared him enough to have a heart attack.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR HORTON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That is a pretty incredible event. How well do you know this </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">fella</Text>
+      <Text>? Is he prone to seeing odd things?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, I don’t think so. Herb is about as grounded as any person you would ever hope to meet.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR HORTON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, that’s fascinating. You know, I am very interested in the way the brains of elderly patients process information. In fact, I work with a colleague, Dr. Johnson, on special studies of the aging process. We are always recruiting participants into the program and I wonder if you might be interested.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What is it again?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Dr HORTON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It is a program in which we establish certain baselines for people in the study group, all of whom are 75 years of age or older. We do a series of tests of their cognitive abilities, and then we have them retake those tests from time to time so that we can compare their scores and look for changes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What’s the point?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">DR HORTON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We hope to improve our abilities to recognize early onset of various forms of dementia and Alzheimer’s so that we can begin early treatments that might retard the growth of those conditions.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Howard sits on the examining table, considering the proposal.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 1/8" Page="33" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HOWARD"></CharacterArcBeat>
+          <CharacterArcBeat Name="TECHNICIAN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. doctor’s office - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Howard Riley sits across the table from a young Indian medical technician.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Technician</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mr. Riley, I am going to show you a series of images and then ask you some questions about what you see.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Technician has a deck of large cards. He turns three over, one at a time, placing them face up. One shows a carrot, another shows a potato, and the third shows a fork. After giving Howard a moment to view the images he picks the cards up, removing them from sight.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TECHNICIAN (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mr. Riley, can you tell me which of the three images that you just saw go together?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, there were a couple vegetables there, so I suppose they go together.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TECHNICIAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay, now let me show you three more images.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Technician lays down three cards, face up. One shows a square shape, one a triangle, and one a circle. Then the Technician gathers the cards up, removing them from view.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TECHNICIAN (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Now, Mr. Riley, can you tell me which of the three images that you just saw has characteristics different from the others?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I suppose it would be the circle.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TeCHNICIAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What about that selection makes it different from the other images in that group?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No angles. The square and the triangle consist of angles.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 6/8" Page="34" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DR HORTON"></CharacterArcBeat>
+          <CharacterArcBeat Name="JIMMY"></CharacterArcBeat>
+          <CharacterArcBeat Name="MICHAEL"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. DOCTOR horton’S OFFICE - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy and Michael sit in the office of their father’s primary care giver, Dr. Horton.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Dr HORTON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We have given your father the basic battery of cognition tests, which provides us with a baseline for assessing your father’s mental celerity.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>His what?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR HORTON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>His mental quickness.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How is he looking?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR HORTON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He’s looking very good. What we are watching for are changes, progressive conditions, or deterioration of faculties, and of course that can only be evaluated over time. I must say that your father starts at a very high level, particularly for a man of his age. I just don’t see much that would be any cause for immediate concern. He is in good physical condition, and I would assess his mental state as excellent.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The two brothers glance at each other</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, that’s all fantastic.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What about his emotional state?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dr. Horton looks questioningly at the brothers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR HORTON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We have not conducted any tests to assess his emotional state. Do you feel this to be an issue?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Michael looks from Jimmy to Dr. Horton.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MICHAEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is it possible that an old person could have all their wits about them but still be suffering some sort of mental disassociation?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR HORTON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Disassociation?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My dad talks to himself, I mean a lot. Neighbors can hear him over their backyard fence.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dr. Horton smiles in a reassuring way.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR HORTON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Talking to one’s self is something that grows increasingly common as we age. It is part of how we calibrate our reactions to the world around us. For older people, the fast pace of life can be very disorienting and older people tend to stay in touch with their feelings about the world around them by talking it out. I do it myself. It is not something that I think you need to be concerned about regarding your father. That said, if you feel it would be a good thing then we could book some time for him with someone from our psychiatry unit.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Michael and Jimmy exchange looks.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3 1/8" Page="36" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DR MALLOY"></CharacterArcBeat>
+          <CharacterArcBeat Name="HOWARD"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>InT. dr. Malloy’s office - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Howard Riley sits in a comfortable chair in the office of Dr. Malloy, a psychiatrist. Dr. Malloy, a distinguished old man with a carefully trimmed white beard, bears a striking resemblance to Sigmund Freud, whose framed photograph hangs on the wall behind him. He leafs through papers providing background on Howard Riley.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Dr malloy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mr. Riley, I see that you lost your wife several years ago and now live by yourself. How are you doing with that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(sadness)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, I’ve accustomed myself to things. My wife was a wonderful person and I miss her dearly. She was the center of our family, of course, like mothers are. She held us all together.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR MALLOY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You and your two sons.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes, Jimmy and Michael and myself. We aren’t as close as we used to be, and I think it’s just that Beatrice isn’t there to orchestrate things.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR MALLOY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do you feel lonely?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Howard sits and considers the question for a moment.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You know, for a time after my wife died I just felt like my life was over, that I had no further need to carry on. She and the boys had been my whole story, and it felt like it was done. But then I guess I started to heal a bit, started to feel different about things. I started worrying about my son Jimmy a lot, which I’d always left to my wife to do. I’d just send the checks. He had married such a nice girl and I wanted to help him make that work. It broke our hearts when that marriage failed, because we had hoped that Jimmy had found a partner in his life, a safety net. When Beatrice died I think I felt like he was more vulnerable than anyone, so I took the Jimmy mantle. I became the worrier. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR MALLOY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How old is your son?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Jimmy or Michael? Michael’s the oldest and he just turned forty. Jimmy’s six years younger.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR MALLOY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And it is Jimmy who you are worried about? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It is. Michael has a solid life. He has a good income and he married a girl who came from money, so he is set. Jimmy’s the one who struggles.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR MALLOY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why is that? Does he have substance abuse issues or health problems? Any problems with the legal system?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, no, he’s just Jimmy. He hasn’t ever found that thing that he can do that will make him happy in life. He can’t hold on to a job, can’t hook in with any going concerns. I worry a lot about Jimmy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR MALLOY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It looks to me that you have provided very well for your children. Do you feel any guilt issues as a parent? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, yes. I do feel some guilt in that I always felt that Michael was the result of what we encouraged him to be, and Jimmy was the result of just me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR MALLOY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What do you mean?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It seems to me that if you can convince a kid that anything is possible, and support him, and somehow help him clear away the obstacles that would challenge his child’s illusion, that good things could actually happen. That was Michael’s fate. But Jimmy is what happens when the illusion can’t be maintained, when reality slips in.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR MALLOY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What is your son Jimmy’s reality?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He’s all alone. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR MALLOY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How are you affected by that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HoWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I am sad for him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR MALLOY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You said a moment ago something that makes me think you feel that there is something about you that has limited your son Jimmy? What do you mean by that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I just got lucky, Doc. I just got lucky. I never had any vision or plan for life - never really thought anything about it. I married well, got a stable job, and got lucky with some investments. I never did anything to deserve the life I have lived. I am my son Jimmy, we are the same person. And I feel responsible for him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR MALLOY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But not your son Michael.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Michael is the alien we created, Beatrice and me, the successful result of genetic experimentation.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DR MALLOY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And Jimmy?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Jimmy’s just the genetics, with all the plain reality left in.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 4/8" Page="39" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HOWARD"></CharacterArcBeat>
+          <CharacterArcBeat Name="JIMMY"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. hOWARD’S HOUSE - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy walks up the drive to his father’s house and lets himself through the gate leading into the back yard. As he enters the backyard he notices a profound change: the flower beds are overflowing with blooms. The whole scene is rich with wildlife: birds drinking from overflowing bird baths, squirrels chasing one another through the tree canopy overhead, bees busily moving from one nectar to the next. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Suddenly Howard stands up from behind a fountain of blooming flowers, surprising Jimmy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hi dad.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey, what are you up to?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">distracted</Text>
+      <Text> by the vegetation)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Just dropping by. What is going on with your yard?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s doing really well, don’t you think?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I think that’s an understatement. When did you become a master gardener?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ve always puttered in the yard, just never had such a good year.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(puzzled, shaking his head)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I was just here a few days ago and it didn’t look like this. You been Miracle Growing these things?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(proudly beholding his yard)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Just watering and keeping the weeds in check, giving everything a lot of attention, nothing more.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>For a moment, the two just stand across the flower bed from one another, looking around at the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">fulgent</Text>
+      <Text> growth, then Jimmy snaps out of it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Have you been out here long? You need a drink or anything?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I guess I could have a little something. I guess I have been out here awhile. It’s so nice out this morning that I probably lost track of the time.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Howard walks around the flower bed and then he and Jimmy walk together toward the porch area. We see them from the front as they approach, unaware of what is behind them. There we see the head of an alien - the same being that Herb saw - briefly popping up over the vegetation, snapping a peak at Howard and Jimmy as they go into the house.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 2/8" Page="41" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HOWARD"></CharacterArcBeat>
+          <CharacterArcBeat Name="JIMMY"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. hOWARD’S HOUSE - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy goes to the refrigerator, finds a couple cans of Dr. Pepper, and then fills a couple glasses with ice. He and Howard sit across from each other in the sun room, a wall of French windows to one side looking out into the back yard. There is a glass-top coffee table between them on which they rest their drinks.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So you checked out in tip-top shape with your doctor friends.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, yeah. They don’t even want to see me again.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ever?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HoWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Not the last </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">fella</Text>
+      <Text> - the shrink.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JiMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He thinks you are sound of mind?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Quiet in my mind. He didn’t find a lot of rusted parts.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As the two talk, Howard’s alien friend appears from behind the flowers and shrubberies. He can be seen through French windows, but neither Howard nor Jimmy notice. The alien walks across the back part of the yard, picks up a watering can, and then disappears from view again behind the vegetation.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You are quite a guy, Pop. It makes me and Michael feel relieved to know you are getting these good reports. You know, especially after your neighbor Herb’s thing. It’s scary.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Yeh</Text>
+      <Text>, I know, although Herb’s doing fine. He’s back home, you know, and he seems to be getting around okay.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Has he come over to see you?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, he hasn’t done that. I haven’t talked to him since that day he had the problem. I tried to call him the other night, but couldn’t get an answer. I left a message, but no one called back.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That seems sort of strange.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, yeah. I hope Herb hasn’t got it in his head that this is no place he wants to be. He’s always been such a good neighbor.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As they talk, the alien can intermittently be seen behind the flowering garden.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You should have him over to see your yard.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy casually glances out toward the back yard just as the alien moves from view. A shocked look comes over his face. Howard notices it and he, too, looks toward the backyard.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What’s wrong.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy shakes his head, as if freeing cobwebs. He stares in disbelief toward the garden.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I may be seeing things.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What are you seeing?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy stands up, looking the whole time into the backyard.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Wait a second, I just have to do this to check my own sanity.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy goes to the back door and walks in a resolute way toward the back of the yard. Howard gets up and walks to the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">window’d</Text>
+      <Text> wall, watching Jimmy outside.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jimmy seems to get smaller as he walks further away from the house. He can be seen stopping near where he thought he saw something, and then scouting around behind the flowers and bushy plants. Apparently finding nothing, he turns around and walks back toward the house, glancing behind him as he goes. He opens the back door and goes over to where Howard stands at the multi-paned window.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HowARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What was that about?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JiMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I swear to God, I must be losing it. I would have swore that I saw something - somebody - in the backyard. Nothing there. I may need the name of your shrink.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="43" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="43" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="43" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1" Page="43" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name=""></CharacterArcBeat>
+          <CharacterArcBeat Name="HOWARD"></CharacterArcBeat>
+          <CharacterArcBeat Name="JIMMY"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. - HOWARD’S HOUSE - NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Howard and Jimmy stand in the backyard, knowing the alien is out there somewhere.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He’s from the future, Jimmy. And he’s one of us.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JIMMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What do you mean?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOWARD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They have mostly lost their genetic memory of the generations that came before them, because they no longer die. They no longer reproduce and they no longer die. And they are lost, living life without meaning. Nothing brackets their existence. There are no crescendos, no final rewards, just endless space. But this one here... For some reason he has traced his roots, and they led here, to my back yard. He likes it here, among the flowers, the living things. The DNA that makes us who we are has been continued in him, and he thinks of us as family. It is an odd feeling, he says, a kind of an ancestral memory, and he is the only one among his race who seems to have it. The abductions you hear about. People think they are gathering DNA so our species might continue, but it’s not that. It is to find links back to their past, their lost personal histories. It’s to remember, to remember who they are.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>In the final scene, we see Jimmy, the alien, and Howard walking hand-in-hand toward the back door of Howard’s house and disappearing together inside.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>FADE OUT.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Text=""/>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel Type="Last Revised"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
+
+  <TextState Scaling="135" Selection="2591,2591" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+        </Paragraph>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Script Title</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Written by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Name of First Writer</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Based on, If Any</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Address</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Phone Number</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <UnanchoredScriptNotes/>
+
+  <SmartType>
+    <Characters>
+      <Character>Jimmy</Character>
+      <Character>Howard</Character>
+      <Character>Michael</Character>
+      <Character>Mr. Lowenstein</Character>
+      <Character>JEAN</Character>
+      <Character>Dr Horton</Character>
+      <Character>Technician</Character>
+      <Character>Dr malloy</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(CONT'D)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>FADE IN</Location>
+      <Location>-</Location>
+      <Location>- HOWARD'S HOUSE</Location>
+      <Location>JIMMY'S LIVING ROOM</Location>
+      <Location>HOWARD'S HOUSE</Location>
+      <Location>HOWARD'S HOUSE DAY</Location>
+      <Location>MR. LOWENSTEIN</Location>
+      <Location>JIMMY'S LIVING ROOM NIGHT</Location>
+      <Location>JIM</Location>
+      <Location>HOSPITAL EXAMINING ROOM</Location>
+      <Location>DOCTOR'S OFFICE</Location>
+      <Location>DR. MALLOY'S OFFICE</Location>
+      <Location>MICHAEL'S HOUSE</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      <TimeOfDay>EXT</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowAllMarks="No" ShowAllSets="No" ShowPageColor="No">
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="1" Mark="*" Name="Blue (mm/dd/yyyy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="2" Mark="*" Name="Pink (mm/dd/yyyy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="3" Mark="*" Name="Yellow (mm/dd/yyyy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="4" Mark="*" Name="Green (mm/dd/yyyy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="5" Mark="*" Name="Goldenrod (mm/dd/yyyy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="6" Mark="*" Name="Buff (mm/dd/yyyy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="7" Mark="*" Name="Salmon (mm/dd/yyyy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="8" Mark="*" Name="Cherry (mm/dd/yyyy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="9" Mark="*" Name="Tan (mm/dd/yyyy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="10" Mark="*" Name="2nd White (mm/dd/yyyy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="11" Mark="*" Name="2nd Blue (mm/dd/yyyy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="12" Mark="*" Name="2nd Pink (mm/dd/yyyy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="13" Mark="*" Name="2nd Yellow (mm/dd/yyyy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="14" Mark="*" Name="2nd Green (mm/dd/yyyy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod (mm/dd/yyyy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="16" Mark="*" Name="2nd Buff (mm/dd/yyyy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="17" Mark="*" Name="2nd Salmon (mm/dd/yyyy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="18" Mark="*" Name="2nd Cherry (mm/dd/yyyy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="19" Mark="*" Name="2nd Tan (mm/dd/yyyy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" SplitMode="None" SplitterPosition="1592">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Verdana" RevisionID="0" Size="9" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="Man 1" Character="Jimmy"/>
+    <Member Actor="Man 1" Character="Howard"/>
+    <Member Actor="Man 1" Character="Michael"/>
+    <Member Actor="Man 1" Character="Mr. Lowenstein"/>
+    <Member Actor="Man 1" Character="JEAN"/>
+    <Member Actor="Man 1" Character="Dr Horton"/>
+    <Member Actor="Man 1" Character="Technician"/>
+    <Member Actor="Man 1" Character="Dr malloy"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#FFFFFFFFFFFF" Name="" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="DR HORTON" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="DR MALLOY" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="HOWARD" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="JEAN" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="JIMMY" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="MICHAEL" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="MR. LOWENSTEIN" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="TECHNICIAN" Visible="No"/>
+  </CharacterHighlighting>
+
+  <CharacterNavigatorPreferences IsSortAscending="Yes" SortColumn=""/>
+
+</FinalDraft>
